@@ -61,6 +61,25 @@
                             </div>
                         </div>
                     </form>
+
+                    <hr>
+
+                    <div class="text-center">
+                        <h4>Or <br> Connect Via</h4>
+                        <a href="login/facebook">Facebook</a> - 
+                        <a href="login/twitter">Twitter</a> - 
+                        <a href="login/github">Github</a>
+                    </div>
+
+                    <hr>
+
+                    <div
+                        class="fb-like"
+                        data-share="true"
+                        data-width="450"
+                        data-show-faces="true">
+                    </div>
+
                 </div>
             </div>
         </div>
