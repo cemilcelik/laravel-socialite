@@ -68,7 +68,8 @@
                         <h4>Or <br> Connect Via</h4>
                         <a href="login/facebook">Facebook</a> - 
                         <a href="login/twitter">Twitter</a> - 
-                        <a href="login/github">Github</a>
+                        <a href="login/github">Github</a> - 
+                        <a href="login/spotify">Spotify</a>
                     </div>
 
                     <hr>

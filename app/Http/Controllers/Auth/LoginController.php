@@ -41,7 +41,7 @@ class LoginController extends Controller
 
     public function redirectToProvider($provider)
     {
-        return Socialite::driver($provider)->redirect();
+        return Socialite::with($provider)->redirect();
     }
 
     public function handleProviderCallback(SocialAccountService $accountService, $provider)
