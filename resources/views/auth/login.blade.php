@@ -69,7 +69,8 @@
                         <a href="login/facebook">Facebook</a> - 
                         <a href="login/twitter">Twitter</a> - 
                         <a href="login/github">Github</a> - 
-                        <a href="login/spotify">Spotify</a>
+                        <a href="login/spotify">Spotify</a> - 
+                        <a href="login/gitlab">GitLab</a>
                     </div>
 
                     <hr>
